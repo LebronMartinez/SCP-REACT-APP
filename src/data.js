@@ -27,6 +27,6 @@ export const scps = [
         id: "SCP-006",
         tagline: "Safe",
         content: "SCP-006 is a very small spring located 60 km west of Astrakhan...",
-        image: "/images/scp-006.webp"
+        image: "/images/scp-006.jpg"
     }
 ];
